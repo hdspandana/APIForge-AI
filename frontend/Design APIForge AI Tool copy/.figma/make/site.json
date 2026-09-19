@@ -1,0 +1,10 @@
+{
+  "description": "Effortlessly transform API source code into intelligent, context-aware documentation while ensuring security and quality for developers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
